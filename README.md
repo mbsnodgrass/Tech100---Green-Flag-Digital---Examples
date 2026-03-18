@@ -1,2 +1,4 @@
 # Tech100---Green-Flag-Digital---Examples
-The Tech100 Ranking by Green Flag Digital is a monthly campaign/article that showcases and ranks the hottest tech companies in the United States by scoring their funding momentum, website analytics, and branded growth. The data is collected from multiple sources and is consolidated into one dataset that is updated monthly.
+The Tech100 Ranking by Green Flag Digital is a monthly campaign/article that showcases and ranks the hottest tech companies in the United States by scoring their funding momentum, website analytics, and branded growth. The data is collected from multiple sources and is consolidated into one dataset that is updated monthly. This dataset is automated in Excel to create HTML content of 50+ smaller articles and 1 large article, which is cited by tech news outlets like Tech:NYC. The purpose of the Tech100 is to showcase Green Flag Digital's ability to create high-level data studies.
+
+The file above is an Excel spreadsheet that showcases the final dataset for each monthly update. This dataset is connected to additional datasets designed to automate content for specific industries.
